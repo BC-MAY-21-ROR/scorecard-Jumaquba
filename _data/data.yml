@@ -7,12 +7,12 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Juan Martin Quintero Balli # Nombre completo
+  tagline: Ruby on Rails Web Developer
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
+  email: jumaquba@brightcoders.com
   phone:
   website: # No agregar http://
   linkedin: brightcoders
